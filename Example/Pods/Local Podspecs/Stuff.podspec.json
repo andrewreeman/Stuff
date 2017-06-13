@@ -1,8 +1,8 @@
 {
   "name": "Stuff",
   "version": "0.1.0",
-  "summary": "A short description of Stuff.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "Stuff is a test for working out how to create a cocoapod library",
+  "description": "This library is a test library for working out how to create a library using cocoapod",
   "homepage": "https://github.com/andrewreeman/Stuff",
   "license": {
     "type": "MIT",

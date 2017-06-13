@@ -7,13 +7,21 @@
 //
 
 import UIKit
+import Stuff
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        let adder = Stuff.adder(4)
+        
+        print(adder(4))
+        print(adder(2))
+        print(adder(8))        
     }
+    
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
