@@ -1,0 +1,22 @@
+{
+  "name": "Stuff",
+  "version": "0.1.0",
+  "summary": "A short description of Stuff.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/andrewreeman/Stuff",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "andrewreeman": "andrew.reeman@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/andrewreeman/Stuff.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Stuff/Classes/**/*"
+}
